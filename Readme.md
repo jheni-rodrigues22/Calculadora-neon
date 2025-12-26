@@ -14,7 +14,7 @@ Uma **calculadora moderna com visual neon** desenvolvida com **HTML, CSS e JavaS
 
 ## 🎥 Demonstração em Vídeo
 
-https://github.com/jheni-rodrigues22/Calculadora/raw/main/Preview.mp4
+https://raw.githubusercontent.com/jheni-rodrigues22/Calculadora/main/Preview.mp4
 
 ---
 
