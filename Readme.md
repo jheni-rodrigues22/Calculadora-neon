@@ -12,9 +12,9 @@ Uma **calculadora moderna com visual neon** desenvolvida com **HTML, CSS e JavaS
 
 ---
 
-## 🎥 Demonstração em Vídeo
+## 🎥 Demonstração
 
-https://raw.githubusercontent.com/jheni-rodrigues22/Calculadora/main/Preview.mp4
+![Demonstração da Calculadora](./demo.gif)
 
 ---
 
